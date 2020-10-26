@@ -1,2 +1,15 @@
-h1 {text-align: center;}
-h2 {text-align: center;}
+h1 {
+  color: blueviolet;
+  text-align: center;
+}
+
+h2 {
+  color: dodgerblue;
+  text-align: center;
+}
+
+p {color: fuchsia;}
+
+body {
+  background-color: lavender;
+}
